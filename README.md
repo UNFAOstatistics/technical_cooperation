@@ -11,7 +11,14 @@ Etherpad - for collaborative text editing
 - Could be hosted internally <https://github.com/ether/etherpad-lite#installation>
 - Sites providing hosting:
     - [Open Knowledge](https://okfn.org/) at: <https://pad.okfn.org/>
-    - [RiseUp](https://help.riseup.net/) at : <https://help.riseup.net/>
+    - <https://etherpad.fr/>
+    - <https://help.riseup.net/>
+    - <https://factor.cc/pad/>
+    - <https://piratenpad.de>
+    - <https://pad.secure-pass.net>
+    - <https://notes.typo3.org/>
+    - <https://etherpad.net/>
+    - <https://framapad.org/>
 - Allows
     - real-time online collaboration with no registration what-so-ever
     - create new document by typing it name
