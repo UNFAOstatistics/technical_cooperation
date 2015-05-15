@@ -25,7 +25,9 @@ Etherpad - for collaborative text editing
 
 - [Pandoc a universal document converter](http://pandoc.org/)
 
+    # Download file
     curl -k -o docs/input.md https://pad.okfn.org/p/faodemo-main/export/txt
+    # Convert in different formats
     pandoc docs/input.md -o docs/output.pdf
     pandoc docs/input.md -o docs/output.docx
     pandoc docs/input.md -o docs/output.odt
