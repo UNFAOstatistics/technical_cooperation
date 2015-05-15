@@ -20,3 +20,15 @@ Etherpad - for collaborative text editing
 - User examples
     - [pdf commenting in team F](http://koti.kapsi.fi/~muuankarski/fao/GSPB15/comment.html)
 - FAO demo: <https://pad.okfn.org/p/faodemo-main>
+
+### Processing the text from etherpad with Pandoc
+
+- [Pandoc a universal document converter](http://pandoc.org/)
+
+    curl -k -o docs/input.md https://pad.okfn.org/p/faodemo-main/export/txt
+    pandoc docs/input.md -o docs/output.pdf
+    pandoc docs/input.md -o docs/output.docx
+    pandoc docs/input.md -o docs/output.odt
+    pandoc docs/input.md -o docs/output.html
+
+See the input & outputs in `docs/`-folder
