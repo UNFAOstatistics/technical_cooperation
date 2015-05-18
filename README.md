@@ -23,6 +23,8 @@ Etherpad - for collaborative text editing
 - processing script: `pad_to_pdf.R`
 - output documents in `output/` -folder
 
+Script (`pad_to_pdf.R`) below downloads the current text from etherpad, cleans it and splits into individual files and finally converts them into various output formats. 
+
 ```
 
 #!/bin/bash
