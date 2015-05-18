@@ -21,6 +21,7 @@ Etherpad - for collaborative text editing
 
 - input pad: <https://pad.okfn.org/p/faodemo-minute>
 - processing script: `pad_to_pdf.R`
+- output documents in `output/` -folder
 
 ```
 
