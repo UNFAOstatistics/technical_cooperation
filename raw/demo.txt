@@ -1,0 +1,96 @@
+
+<!-- Youn can write whatever you want on lines that begin with <!-- as they are excluded from outputs
+<!-- Always beging a new doc with four §-characters (or something else)
+
+§§§§teamXYZ-week21
+---
+title: Team XYZ weekly meeting
+date: 18/05/2015
+author: Simon Secretary
+---
+
+## Members present:
+- Taylor Cooper, CEO
+- Logan Shafter, CFO
+
+## Members absent:
+
+- Lindsay Rogan, Communication Strategist
+- Mark Epstein, Senior Vice President, Human Resources
+
+## Approval of minutes:
+    
+1. Motion: Approve minutes from 14 January 2013 board meeting
+2. Vote: Motion carried
+3. Resolved: Minutes from the meeting on 14 January 2013 approved without modification
+
+## Meeting adjourned at 1:14 p.m. by CEO Taylor Cooper
+
+<!-- ##########################################################################
+<!-- ##########################################################################
+<!-- ##########################################################################
+
+<!-- Youn can write whatever you want on lines that begin with <!-- as they are excluded from outputs
+<!-- Always beging a new doc with four §-characters (or something else)
+
+§§§§teamXYZ-week20
+---
+title: Team XYZ weekly meeting
+date: 03/05/2015
+author: Simon Secretary
+---
+
+## Members present:
+- Taylor Cooper, CEO
+- Logan Shafter, CFO
+
+## Members absent:
+
+- Lindsay Rogan, Communication Strategist
+- Mark Epstein, Senior Vice President, Human Resources
+
+## Approval of minutes:
+    
+1. Motion: Approve minutes from 14 January 2013 board meeting
+2. Vote: Motion carried
+3. Resolved: Minutes from the meeting on 14 January 2013 approved without modification
+
+## Meeting adjourned at 1:14 p.m. by CEO Taylor Cooper
+
+
+<!-- Youn can write whatever you want on lines that begin with <!-- as they are excluded from outputs
+
+<!-- Always beging a new doc with four §-characters (or something else)
+
+<!-- ##########################################################################
+<!-- ##########################################################################
+<!-- ##########################################################################
+
+§§§§teamXYZ-week19
+---
+title: Team XYZ weekly meeting
+date: 11/05/2015
+author: Simon Secretary
+---
+
+## Members present:
+- Taylor Cooper, CEO
+- Logan Shafter, CFO
+
+## Members absent:
+
+- Lindsay Rogan, Communication Strategist
+- Mark Epstein, Senior Vice President, Human Resources
+
+
+  Right     Left     Center     Default
+-------     ------ ----------   -------
+     12     12        12            12
+    123     123       123          123
+      1     1          1             1
+
+
+## Meeting adjourned at 1:14 p.m. by CEO Taylor Cooper
+
+
+
